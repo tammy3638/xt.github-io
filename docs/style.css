@@ -1,0 +1,63 @@
+.header_right {
+	text-align: right;
+	padding: 8px;
+	height: 18px;
+	width: 800px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+}
+.header_right {
+	padding: 8px;
+	height: 18px;
+	width: 800px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-align: right;
+}
+.header_navigator {
+	font-family: "宋体";
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #FF3300;
+	padding: 8px;
+	height: 26px;
+	width: 798px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	border: 1px solid #FFFFFF;
+}
+.header_center {
+	font-family: "宋体";
+	font-size: x-large;
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFFFFF;
+	text-align: center;
+	padding: 8px;
+	height: 50px;
+	width: auto;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.header_center {
+	font-family: "新宋体";
+	font-size: 50px;
+	font-weight: bold;
+	color: #330000;
+	padding: 20px;
+	height: auto;
+	width: auto;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-image: url(pictures/16sucai_P59201C083.JPG);
+}
